@@ -23,3 +23,8 @@ My conversion of the original ROBOTRON ROMs for the TANDY Color Computer 3
 <!-- wp:paragraph -->
 <p>To play the game just type RUN"ROBOTRON</p>
 <!-- /wp:paragraph -->
+
+To play it use the DSK image and type RUN"ROBOTRON <ENTER>
+Press 5 to insert Coin, 1 or 2 to start a one or two player game.
+
+Joysticks are required
