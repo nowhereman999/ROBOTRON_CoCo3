@@ -9,7 +9,7 @@ My conversion of the original ROBOTRON ROMs for the TANDY Color Computer 3
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>ROBOTRON was never my favourite game.  My hope when starting to work on the game was that since the hardware is exactly the same as Joust that I could get the game going and move on in a relatively quick time frame.  Unfortunately that wasn't the case.  I've always enjoyed the game and I have very fond memories of the it.  When I was young my best friend and I would go to the arcade and my friend would play ROBOTRON and I would play Defender.  So it was never MY game.  I don't have the drive to continue working on the game for the CoCo.  This is a hobby and it's supposed to be fun.  But ROBOTRON at this point just feels like frustrating work so I've decided I'm not going to work on it anymore.</p>
+<p>ROBOTRON was never my favourite game.  My hope when starting to work on the game was that since the hardware is exactly the same as Joust that I could get the game going and move on in a relatively quick time frame.  Unfortunately that wasn't the case.  I've always enjoyed the game and I have very fond memories of it.  When I was young my best friend and I would go to the arcade and my friend would play ROBOTRON and I would play Defender.  So it was never MY game.  I don't have the drive to continue working on the game for the CoCo.  This is a hobby and it's supposed to be fun.  But ROBOTRON at this point just feels like frustrating work so I've decided I'm not going to work on it anymore.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
